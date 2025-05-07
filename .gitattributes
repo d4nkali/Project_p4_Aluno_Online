@@ -1,10 +1,12 @@
-# Convertendo para lf
+# Convertendo para lf ou crlf
 
+/mvnw text eol=lf
 *.sql eol=lf
 *.java eol=lf
 *.md eol=lf
 *.txt eol=lf
 *.sh eol=lf
+*.cmd text eol=crlf
 
 # Colocando sql como linguagem no GitHub
 
