@@ -1,2 +1,3 @@
-# template_uniesp_projects
-Repositório de exemplo para criar outros repositórios para projetos da faculdade.
+# Projeto Aluno Online - p4
+
+README DO PROJETO.
