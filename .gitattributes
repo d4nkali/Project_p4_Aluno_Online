@@ -1,4 +1,12 @@
-# Define que o Git sempre converterá delimitadores de linha em CRLF
-*.txt eol=lf
-*.md eol=lf
+# Convertendo para lf
+
+*.sql eol=lf
 *.java eol=lf
+*.md eol=lf
+*.txt eol=lf
+*.sh eol=lf
+
+# Colocando sql como linguagem no GitHub
+
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
